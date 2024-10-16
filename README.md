@@ -6,3 +6,10 @@ Objective: Predict if the Falcon 9 first stage will land successfully.
 - Much of the cost savings are due to SpaceX's ability to reuse the first stage of the rocket.
 - Predicting the landing success of the first stage can help determine the cost of a launch.
 - This information can be valuable for alternate companies looking to bid against SpaceX for rocket launches.
+### Methodology
+- Data collection - Web Scrapping
+- Data Wrangling
+- EDA With Sql
+- EDA With Data Visualization
+- Build an Interactive Map with Folium
+- Predictive Analysis
